@@ -1,7 +1,6 @@
 # guessing game 
 # provide input for starting and ending number. 
 # start guessing the random number generated within the provided range
-# for testing git fetch
 
 
 import random 
